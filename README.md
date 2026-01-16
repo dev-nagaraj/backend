@@ -10,7 +10,8 @@
 
 ### Database Design:
 
-![image.png](image.png)
+<img width="693" height="682" alt="image" src="https://github.com/user-attachments/assets/724f96da-cb3a-4a8a-a28b-0ae78614f6a2" />
+
 
 ```sql
 BEGIN;
@@ -148,7 +149,8 @@ $$ LANGUAGE plpgsql;
         
         It  will return the revenue for following details
         
-        ![image.png](image%201.png)
+       <img width="271" height="192" alt="image" src="https://github.com/user-attachments/assets/4aa4d7de-27ff-417f-b62b-3d8565d8c9da" />
+
         
     2. **api/refresh** this will sync the latest data from raw table to respective table
 5. This solution completely based on the ELT and its completely done at posgres not in application level.
@@ -157,7 +159,7 @@ $$ LANGUAGE plpgsql;
 
 1. **api/GetRevenue/{revenuetype}?from={datetime}&to={datetime}
 
-Request :**[[https://localhost:50123](https://www.notion.so/)/api/GetRevenue/1?from=10-10-2025&to=15-10-2025](https://www.notion.so/)
+Request :**[https://localhost:50123](https://www.notion.so/)/api/GetRevenue/1?from=10-10-2025&to=15-10-2025
 
 **Response:** 
     
@@ -171,6 +173,6 @@ Request :**[[https://localhost:50123](https://www.notion.so/)/api/GetRevenue/1?f
     
 2. **api/refresh
 
-Request :**[[https://localhost:50123](https://www.notion.so/)/api/GetRevenue/1?from=10-10-2025&to=15-10-2025](https://www.notion.so/)
+Request :**[https://localhost:50123](https://www.notion.so/)/api/GetRevenue/1?from=10-10-2025&to=15-10-2025
 
 **Response: Refreshed successfully**
