@@ -127,7 +127,7 @@ RETURNS decimal AS $$
            from orders o left join public.product p on p.product_id = o.product_id
            left join public.customer c on c.customer_id = o.customer_id
            where date_of_sale between from1 AND to1
-            if revenueType == 2
+            if revenueType = 2
                 Group By (p.product_name);
             else if revenueType = 3
                 Group By (p.category)
