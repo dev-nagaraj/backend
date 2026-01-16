@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{768AFC5E-46E7-4BD1-8ABD-EFD26E15B8E2}|Infrastructure\\Infrastructure.csproj|c:\\users\\codew\\onedrive\\desktop\\backend_pro\\backend pro ass\\infrastructure\\data\\salesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768AFC5E-46E7-4BD1-8ABD-EFD26E15B8E2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\salesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B1D7CE-F84B-4C96-B58D-20EBA40394B8}|Domain\\Domain.csproj|c:\\users\\codew\\onedrive\\desktop\\backend_pro\\backend pro ass\\domain\\revenuedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B1D7CE-F84B-4C96-B58D-20EBA40394B8}|Domain\\Domain.csproj|solutionrelative:domain\\revenuedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768AFC5E-46E7-4BD1-8ABD-EFD26E15B8E2}|Infrastructure\\Infrastructure.csproj|c:\\users\\codew\\onedrive\\desktop\\backend_pro\\backend pro ass\\infrastructure\\sql_schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{768AFC5E-46E7-4BD1-8ABD-EFD26E15B8E2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\sql_schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B1D7CE-F84B-4C96-B58D-20EBA40394B8}|Domain\\Domain.csproj|c:\\users\\codew\\onedrive\\desktop\\backend_pro\\backend pro ass\\domain\\enums\\revenuetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B1D7CE-F84B-4C96-B58D-20EBA40394B8}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\revenuetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B1D37D-6E73-4419-822C-730376C9A9FB}|API\\API.csproj|c:\\users\\codew\\onedrive\\desktop\\backend_pro\\backend pro ass\\api\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B1D37D-6E73-4419-822C-730376C9A9FB}|API\\API.csproj|solutionrelative:api\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835DBC47-0EF6-4E68-A4A3-C151645F8785}|Application\\Application.csproj|c:\\users\\codew\\onedrive\\desktop\\backend_pro\\backend pro ass\\application\\query\\salesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835DBC47-0EF6-4E68-A4A3-C151645F8785}|Application\\Application.csproj|solutionrelative:application\\query\\salesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835DBC47-0EF6-4E68-A4A3-C151645F8785}|Application\\Application.csproj|c:\\users\\codew\\onedrive\\desktop\\backend_pro\\backend pro ass\\application\\command\\salescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835DBC47-0EF6-4E68-A4A3-C151645F8785}|Application\\Application.csproj|solutionrelative:application\\command\\salescommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835DBC47-0EF6-4E68-A4A3-C151645F8785}|Application\\Application.csproj|c:\\users\\codew\\onedrive\\desktop\\backend_pro\\backend pro ass\\application\\interfaces\\isalesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{835DBC47-0EF6-4E68-A4A3-C151645F8785}|Application\\Application.csproj|solutionrelative:application\\interfaces\\isalesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768AFC5E-46E7-4BD1-8ABD-EFD26E15B8E2}|Infrastructure\\Infrastructure.csproj|c:\\users\\codew\\onedrive\\desktop\\backend_pro\\backend pro ass\\infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768AFC5E-46E7-4BD1-8ABD-EFD26E15B8E2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{835DBC47-0EF6-4E68-A4A3-C151645F8785}|Application\\Application.csproj|c:\\users\\codew\\onedrive\\desktop\\backend_pro\\backend pro ass\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{835DBC47-0EF6-4E68-A4A3-C151645F8785}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768AFC5E-46E7-4BD1-8ABD-EFD26E15B8E2}|Infrastructure\\Infrastructure.csproj|c:\\users\\codew\\onedrive\\desktop\\backend_pro\\backend pro ass\\infrastructure\\data\\backendprocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{768AFC5E-46E7-4BD1-8ABD-EFD26E15B8E2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\data\\backendprocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B1D7CE-F84B-4C96-B58D-20EBA40394B8}|Domain\\Domain.csproj|c:\\users\\codew\\onedrive\\desktop\\backend_pro\\backend pro ass\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B1D7CE-F84B-4C96-B58D-20EBA40394B8}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B1D7CE-F84B-4C96-B58D-20EBA40394B8}|Domain\\Domain.csproj|c:\\users\\codew\\onedrive\\desktop\\backend_pro\\backend pro ass\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B1D7CE-F84B-4C96-B58D-20EBA40394B8}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B1D7CE-F84B-4C96-B58D-20EBA40394B8}|Domain\\Domain.csproj|c:\\users\\codew\\onedrive\\desktop\\backend_pro\\backend pro ass\\domain\\entities\\detailsraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B1D7CE-F84B-4C96-B58D-20EBA40394B8}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\detailsraw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B1D7CE-F84B-4C96-B58D-20EBA40394B8}|Domain\\Domain.csproj|c:\\users\\codew\\onedrive\\desktop\\backend_pro\\backend pro ass\\domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B1D7CE-F84B-4C96-B58D-20EBA40394B8}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768AFC5E-46E7-4BD1-8ABD-EFD26E15B8E2}|Infrastructure\\Infrastructure.csproj|c:\\users\\codew\\onedrive\\desktop\\backend_pro\\backend pro ass\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{768AFC5E-46E7-4BD1-8ABD-EFD26E15B8E2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5B1D37D-6E73-4419-822C-730376C9A9FB}|API\\API.csproj|c:\\users\\codew\\onedrive\\desktop\\backend_pro\\backend pro ass\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5B1D37D-6E73-4419-822C-730376C9A9FB}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{768AFC5E-46E7-4BD1-8ABD-EFD26E15B8E2}|Infrastructure\\Infrastructure.csproj|c:\\users\\codew\\onedrive\\desktop\\backend_pro\\backend pro ass\\infrastructure\\sql_schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{768AFC5E-46E7-4BD1-8ABD-EFD26E15B8E2}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\sql_schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQL_schema.sql ",
+              "DocumentMoniker": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Infrastructure\\SQL_schema.sql",
+              "RelativeDocumentMoniker": "Infrastructure\\SQL_schema.sql",
+              "ToolTip": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Infrastructure\\SQL_schema.sql",
+              "RelativeToolTip": "Infrastructure\\SQL_schema.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-01-16T06:54:26.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalesQuery.cs",
+              "DocumentMoniker": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Application\\Query\\SalesQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Query\\SalesQuery.cs",
+              "ToolTip": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Application\\Query\\SalesQuery.cs",
+              "RelativeToolTip": "Application\\Query\\SalesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T06:03:46.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalesCommand.cs",
+              "DocumentMoniker": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Application\\Command\\SalesCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Command\\SalesCommand.cs",
+              "ToolTip": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Application\\Command\\SalesCommand.cs",
+              "RelativeToolTip": "Application\\Command\\SalesCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T05:59:15.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesService.cs",
+              "DocumentMoniker": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Infrastructure\\Data\\SalesService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\SalesService.cs",
+              "ToolTip": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Infrastructure\\Data\\SalesService.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\SalesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T05:55:15.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\API\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\API\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "API\\Controllers\\SalesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T05:04:48.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RevenueType.cs",
+              "DocumentMoniker": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Domain\\Enums\\RevenueType.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\RevenueType.cs",
+              "ToolTip": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Domain\\Enums\\RevenueType.cs",
+              "RelativeToolTip": "Domain\\Enums\\RevenueType.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T05:47:25.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RevenueDetail.cs",
+              "DocumentMoniker": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Domain\\RevenueDetail.cs",
+              "RelativeDocumentMoniker": "Domain\\RevenueDetail.cs",
+              "ToolTip": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Domain\\RevenueDetail.cs",
+              "RelativeToolTip": "Domain\\RevenueDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T06:10:23.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISalesService.cs",
+              "DocumentMoniker": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Application\\Interfaces\\ISalesService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\ISalesService.cs",
+              "ToolTip": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Application\\Interfaces\\ISalesService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\ISalesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T06:06:53.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T05:07:00.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Application",
+              "DocumentMoniker": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-16T06:06:34.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BackendProContext.cs",
+              "DocumentMoniker": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Infrastructure\\Data\\BackendProContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\BackendProContext.cs",
+              "ToolTip": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Infrastructure\\Data\\BackendProContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\BackendProContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T05:39:16.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T05:38:41.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T05:41:06.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DetailsRaw.cs",
+              "DocumentMoniker": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Domain\\Entities\\DetailsRaw.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\DetailsRaw.cs",
+              "ToolTip": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Domain\\Entities\\DetailsRaw.cs",
+              "RelativeToolTip": "Domain\\Entities\\DetailsRaw.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T05:41:01.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T05:38:36.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-16T05:09:21.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\codew\\OneDrive\\Desktop\\backend_pro\\Backend Pro Ass\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T05:08:10.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
